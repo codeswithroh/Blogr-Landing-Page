@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images\Blogr-Landing-Page-Screenshot.png)
+![](images/Blogr-Landing-Page-Screenshot.png)
 
 ### Links
 
