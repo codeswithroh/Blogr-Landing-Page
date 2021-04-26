@@ -34,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo of my solution](https://github.com/codeswithroh/Blogr-Landing-Page)
-- Live Site URL: [Website link of my solution](https://your-live-site-url.com)
+- Live Site URL: [Website link of my solution](https://codeswithroh-blogr-landing-page.netlify.app/)
 
 ## My process
 
